@@ -34,6 +34,6 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 
 ## Support
 
-For any inquiries or support, please contact [vasanthks1999@gmail.com].
+For any inquiries , please contact [vasanthks1999@gmail.com].
 
 Enjoy generating and sharing inspiring quotes with the Quote Generator! 🌟
