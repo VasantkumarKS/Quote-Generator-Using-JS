@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+button {
+    color: rgb(5, 5, 5);
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 6px;
+
+}
+
+button:hover {
+    background-color: brown;
+    color: aliceblue;
+    cursor: pointer;
+}
