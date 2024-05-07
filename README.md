@@ -29,7 +29,8 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 
 ![image](https://github.com/VasantkumarKS/Quote-Generator-Using-JS/assets/140141536/3e266ac6-3bb3-4f24-9659-4c1fc610fb0c)
 
-![image](https://github.com/VasantkumarKS/Quote-Generator-Using-JS/assets/140141536/7074de70-62fd-493c-81a9-e214759beeff)
+![image](https://github.com/VasantkumarKS/Quote-Generator-Using-JS/assets/140141536/48b889cb-1a1c-430c-8187-73705de0409f)
+
 
 ## Support
 
